@@ -136,6 +136,11 @@ body {
     display: block;
 }
 
+.form-step h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -377,6 +382,10 @@ input[type="checkbox"] {
     opacity: 0.5;
     cursor: not-allowed;
     transform: none !important;
+}
+
+#prevBtn {
+    display: none;
 }
 
 /* Autosave indicator */
