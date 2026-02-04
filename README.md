@@ -232,12 +232,12 @@ This project is open source and available for educational and commercial use.
 Built as part of Assignment 4 - Multi-Step Form with Progress Indicator
 
 ### Key Learning Outcomes
-✅ JavaScript form validation mastery
-✅ CSS animations and transitions
-✅ Next/previous button functionality
-✅ Autosave implementation
-✅ Smooth step transitions
-✅ Responsive design principles
+✅ JavaScript form validation mastery 
+✅ CSS animations and transitions 
+✅ Next/previous button functionality 
+✅ Autosave implementation 
+✅ Smooth step transitions 
+✅ Responsive design principles 
 
 ## 📞 Support
 
@@ -247,4 +247,4 @@ For questions or suggestions, feel free to open an issue or reach out!
 
 **FormFlow** - Making multi-step forms beautiful and user-friendly! ✨
 
-Made with 💜 by [Your Name]
+Made with 💜 by Muhammad Khuzaima 
